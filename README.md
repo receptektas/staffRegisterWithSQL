@@ -16,13 +16,13 @@ Cloud Storage --> https://imediavan.com/wp-content/uploads/2018/05/backup-animat
 
 
 
-![Capture](https://user-images.githubusercontent.com/58274151/80260487-b64af600-8690-11ea-8f64-2b2e7c97d5a7.PNG)
+Login Page         ---> ![login](https://user-images.githubusercontent.com/58274151/83572639-9b429000-a532-11ea-8013-7a72d846c55e.PNG)
 
-![Capture0](https://user-images.githubusercontent.com/58274151/80260444-9b788180-8690-11ea-8373-df5e36db079b.PNG)
+Main Page          ---> ![main](https://user-images.githubusercontent.com/58274151/83572721-bc0ae580-a532-11ea-83ca-29d954fe27c9.PNG)
 
-![Capt7ure](https://user-images.githubusercontent.com/58274151/80260532-cd89e380-8690-11ea-8772-18de6e8d08d1.PNG)
+Istatisitcs Page   ---> ![istatistics](https://user-images.githubusercontent.com/58274151/83572770-d5139680-a532-11ea-9898-3ba099d92966.PNG)
 
-![Captur4e](https://user-images.githubusercontent.com/58274151/80260519-c531a880-8690-11ea-90cd-593a6148c51b.PNG)
+Graphics Page      ---> ![graphics](https://user-images.githubusercontent.com/58274151/83572836-f4aabf00-a532-11ea-85c9-662dfe589624.PNG)
 
 
 
